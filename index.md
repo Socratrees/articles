@@ -1,3 +1,8 @@
+---
+title: Socratrees Articles
+description: Articles which use Socratrees to represent arguments contained in their writing.
+---
+
 ## What is this?
 
 [**Socratrees**](http://socratrees.wiki) is a [prototype](https://arxiv.org/abs/1812.04478) discussion platform which allows outlining arguments into hierarchies of supporting and opposing statements.
