@@ -11,19 +11,19 @@ Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Inte
 
 ## What is Systems Research?
 
-I call systems research the type of research that is published as _systems papers_ in HCI. For example, [UIST recognizes "systems" as a specific type of contribution](https://uist.acm.org/uist2019/author-guide/) and cites [Levin and Redell (1983)][1] and [Olsen (2007)][2] for guidelines to authors and reviewers of such papers.
+I call systems research the type of research that is published as _systems papers_ in HCI.
+It is a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
+For example, [UIST recognizes "systems" as a specific type of contribution](https://uist.acm.org/uist2019/author-guide/) and cites [Levin and Redell (1983)][1] and [Olsen (2007)][2] for guidelines to authors and reviewers of such papers.
 
 > It presents a real system, either by a global survey of an entire system or by a selective examination of specific themes embodied in the system. — [Levin & Redell, 1983][1]
 
-Olsen further qualifies _user interface systems_ research as researching ...
+Olsen qualifies _user interface systems_ research as researching ...
 
-> Complex systems [that] [generally do not yield to simple controlled experimentation](http://socratrees.wiki/statement/details/1340). This is mostly due to the fact that [good systems deal in complexity](http://socratrees.wiki/statement/details/1343) and [complexity confounds controlled experimentation](http://socratrees.wiki/statement/details/1344). — [Olsen, 2007][2]
+> [c]omplex systems [that] [generally do not yield to simple controlled experimentation](http://socratrees.wiki/statement/details/1340). This is mostly due to the fact that [good systems deal in complexity](http://socratrees.wiki/statement/details/1343) and [complexity confounds controlled experimentation](http://socratrees.wiki/statement/details/1344). — [Olsen, 2007][2]
 
-A Communications of ACM blog post on ["What Makes a Good HCI Systems Paper"][3] by Tessa Lau states:
+Lastly, a Communications of ACM blog post on ["What Makes a Good HCI Systems Paper"][3] by Tessa Lau states:
 
 > Systems often try to solve a novel problem for which there was no previous approach. The value of these systems might not be quantified until they are deployed in the field and evaluated with large numbers of actual users.  Yet doing such evaluation incurs a significant amount of time and engineering work, [particularly compared to non-systems papers](http://socratrees.wiki/statement/details/985).
-
-Systems research is thus a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
 
 ## References
 
