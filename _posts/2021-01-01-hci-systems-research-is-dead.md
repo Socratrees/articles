@@ -4,7 +4,7 @@ title: HCI Systems Research is Dead (Work in Progress)
 description: My Experience and Rationale for Leaving Academia for Industry — [Steven Jeuris](https://whatheco.de/)
 ---
 
-Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](https://socratrees.azurewebsites.net/statement/details/1326).
+Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](https://socratrees.wiki/statement/details/1326).
 
 **What's up with the leaves?** You will notice strong claims in this article, such as the one above, link to a website called Socratrees. I [welcome you to sign up for private beta](https://socratrees.azurewebsites.net/authenticate/register) and engage with my arguments there to show how foolish they are. You can comment on specific claims I make in this blog post, express agreement by clicking the droplet, or even better, provide counter arguments. Socratrees is one example of what I call 'systems research' and will play a crucial part in this story.
 
@@ -16,11 +16,11 @@ I call systems research the type of research that is published  as 'systems pape
 
 Olsen further qualifies _user interface systems_ research as researching ...
 
-> [c]omplex systems [that] [generally do not yield to simple controlled experimentation](https://socratrees.azurewebsites.net/statement/1340/hci-systems-research-generally-does-not-yield-to-simple-controlled-experimentation). This is mostly due to the fact that [good systems deal in complexity](https://socratrees.azurewebsites.net/statement/details/1343) and [complexity confounds controlled experimentation](https://socratrees.azurewebsites.net/statement/details/1344). — [Olsen, 2007][2]
+> [c]omplex systems [that] [generally do not yield to simple controlled experimentation](https://socratrees.wiki/statement/details/1340). This is mostly due to the fact that [good systems deal in complexity](https://socratrees.wiki/statement/details/1343) and [complexity confounds controlled experimentation](https://socratrees.wiki/statement/details/1344). — [Olsen, 2007][2]
 
 A Communications of ACM blog post on ["What Makes a Good HCI Systems Paper"][3] by Tessa Lau states:
 
-> Systems often try to solve a novel problem for which there was no previous approach. The value of these systems might not be quantified until they are deployed in the field and evaluated with large numbers of actual users.  Yet doing such evaluation incurs a significant amount of time and engineering work, [particularly compared to non-systems papers](https://socratrees.azurewebsites.net/statement/details/985).
+> Systems often try to solve a novel problem for which there was no previous approach. The value of these systems might not be quantified until they are deployed in the field and evaluated with large numbers of actual users.  Yet doing such evaluation incurs a significant amount of time and engineering work, [particularly compared to non-systems papers](https://socratrees.wiki/statement/details/985).
 
 Systems research is thus a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
 
