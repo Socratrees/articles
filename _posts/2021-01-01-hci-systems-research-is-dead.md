@@ -1,7 +1,8 @@
 ---
 layout: post
 title: HCI Systems Research is Dead (Work in Progress)
-description: My Experience and Rationale for Leaving Academia for Industry — [Steven Jeuris](https://whatheco.de/)
+author: Steven Jeuris
+author_website: https://whatheco.de/
 ---
 
 Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](https://socratrees.wiki/statement/details/1326).
