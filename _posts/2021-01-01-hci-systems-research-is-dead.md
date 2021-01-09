@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HCI Systems Research is Dead (Work in Progress)
+title: HCI Systems Research Is Dead (Work in Progress)
 author: Steven Jeuris
 author_website: https://whatheco.de/
 ---
@@ -9,7 +9,7 @@ Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Inte
 
 **What's up with the leaves?** You will notice strong claims in this article, such as the one above, link to a website called Socratrees. I [welcome you to sign up for private beta](https://socratrees.azurewebsites.net/authenticate/register) and engage with my arguments there to show how foolish they are. You can comment on specific claims I make in this blog post, express agreement by clicking the droplet, or even better, provide counter arguments. Socratrees is one example of what I call "systems research" and will play a crucial part in this story.
 
-## What is Systems Research?
+## What Is Systems Research?
 
 I call systems research the type of research that is published as _systems papers_ in HCI.
 It is a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
@@ -24,6 +24,12 @@ Olsen qualifies _user interface systems_ research as researching ...
 Lastly, a Communications of ACM blog post on ["What Makes a Good HCI Systems Paper"][3] by Tessa Lau states:
 
 > Systems often try to solve a novel problem for which there was no previous approach. The value of these systems might not be quantified until they are deployed in the field and evaluated with large numbers of actual users.  Yet doing such evaluation incurs a significant amount of time and engineering work, [particularly compared to non-systems papers](http://socratrees.wiki/statement/details/985).
+
+## Decline in Systems Research
+
+> In the early days of graphical user interfaces, the creation of new architectures for interactive systems was a lively and healthy area of research. [This has declined in recent years](http://socratrees.wiki/statement/details/1338). — [Olsen, 2007][2]
+
+Olsen lists three reasons for this decline: (1) [stable and widely used platforms such as Windows, Mac, and Linux now dictate the user interface architecture](http://socratrees.wiki/statement/details/1347), (2) [current HCI researchers lack skills in toolkit or windowing system architecture and design](http://socratrees.wiki/statement/details/1349), and (3) [there is a lack of appropriate criteria for evaluating systems architectures](http://socratrees.wiki/statement/details/1355).
 
 ## References
 
