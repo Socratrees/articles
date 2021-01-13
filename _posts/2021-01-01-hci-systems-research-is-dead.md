@@ -33,14 +33,20 @@ Olsen lists three reasons for this decline: (1) [stable and widely used platform
 
 This last point specifically, a shortcoming in the review process, is what Olsen hopes to address in his paper. But, not much seems to have changed in the past 13 years, as this remains [a recurring limitation—and frustration—for HCI researchers that do have the necessary skill set to perform systems research and try to get it published](http://socratrees.wiki/statement/details/1357). Here are a select few excerpts in chronological order:
 
-> [The reviewers simply do not value the difficulty of building real systems and how hard controlled studies are to run on real systems for real tasks.](http://socratrees.wiki/statement/details/970)  —   James Landay (2009). [I give up on CHI/UIST](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html)
+> [The reviewers simply do not value the difficulty of building real systems and how hard controlled studies are to run on real systems for real tasks.](http://socratrees.wiki/statement/details/970)  —   James Landay (**2009**). [I give up on CHI/UIST](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html)
 
-> [[T]hose following a social science tradition ...  are often the most available reviewers for a systems paper on a social computing topic](http://socratrees.wiki/statement/details/1359) ... [and]...  [may reject a paper until it has conclusively proven an effect](http://socratrees.wiki/statement/details/1364) — Bernstein et al. (2011). [The trouble with social computing systems research][5]
+> [[T]hose following a social science tradition ...  are often the most available reviewers for a systems paper on a social computing topic](http://socratrees.wiki/statement/details/1359) ... [and]...  [may reject a paper until it has conclusively proven an effect](http://socratrees.wiki/statement/details/1364) — Bernstein et al. (**2011**). [The trouble with social computing systems research][5]
+
+> [E]ven with specific engineering committees at CHI and whole conferences such as EICS, there is still a lot of confusion about the science part, and [we still have a hard time acknowledging systems research](http://socratrees.wiki/statement/details/1369). ...  [M]y own experience both as an author and as a reviewer for CHI and EICS for many years shows that there is still little agreement among researchers on what makes good systems research. — Michael Nebeling (**2017**). [Playing the Tricky Game of Toolkits Research][7]
+
+>  [R]esearchers experience toolkit papers as being hard to publish due to various biases ... [A]cceptance of toolkits as a research contribution remains a challenge and a topic of much recurrent discussion. — Ledo et al., (**2018**). [Evaluation Strategies for HCI Toolkit Research][6]
 
 ## References
 
 - Bernstein, M. S., Ackerman, M. S., Chi, E. H., & Miller, R. C. (2011). [The trouble with social computing systems research.][5] In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 389-398).
+- Ledo, D., Houben, S., Vermeulen, J., Marquardt, N., Oehlberg, L., & Greenberg, S. (2018, April). [Evaluation strategies for HCI toolkit research.][6] In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-17).
 - Levin, R., & Redell, D. D. (1983). [How (and how not) to write a good systems paper.][1] ACM SIGOPS Operating Systems Review, 17(3), 35-40.
+- Nebeling, M. (2017). [Playing the Tricky Game of Toolkits Research.][7] In workshop on HCI. Tools at CHI.
 - Olsen Jr, D. R. (2007, October). [Evaluating user interface systems research.][2] In Proceedings of the 20th annual ACM symposium on User interface software and technology (pp. 251-258).
 - Wobbrock, J. O., & Kientz, J. A. (2016). [Research contributions in human-computer interaction.][4] Interactions, 23(3), 38-44.
 
@@ -49,4 +55,5 @@ This last point specifically, a shortcoming in the review process, is what Olsen
   [3]: https://cacm.acm.org/blogs/blog-cacm/86066-what-makes-a-good-hci-systems-paper/fulltext
   [4]: http://faculty.washington.edu/wobbrock/pubs/interactions-16.pdf
   [5]: https://dspace.mit.edu/bitstream/handle/1721.1/64444/Miller_The%20Trouble.pdf%3Bjsessionid%3DD16AE455E533597043205F9490D9439B?sequence%3D1
-  
+  [6]: https://dl.acm.org/doi/abs/10.1145/3173574.3173610
+  [7]: http://www.michael-nebeling.de/publications/chi17w.pdf
