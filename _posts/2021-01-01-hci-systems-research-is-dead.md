@@ -31,8 +31,14 @@ Lastly, a Communications of ACM blog post on ["What Makes a Good HCI Systems Pap
 
 Olsen lists three reasons for this decline: (1) [stable and widely used platforms such as Windows, Mac, and Linux now dictate the user interface architecture](http://socratrees.wiki/statement/details/1347), (2) [current HCI researchers lack skills in toolkit or windowing system architecture and design](http://socratrees.wiki/statement/details/1349), and (3) [there is a lack of appropriate criteria for evaluating systems architectures](http://socratrees.wiki/statement/details/1355).
 
+This last point specifically is what Olsen hopes to address in the paper. But, this does not seem to have changed much over the past 13 years, and instead is [a recurring limitation and frustration for HCI researchers that do have the skills to take on this task and are trying to publish systems research](http://socratrees.wiki/statement/details/1357). Here are a select few excerpts in chronological order:
+
+- James Landay (2009). [I give up on CHI/UIST](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html) — [_"The reviewers simply do not value the difficulty of building real systems and how hard controlled studies are to run on real systems for real tasks."_](http://socratrees.wiki/statement/details/970)
+- [Bernstein et al. (2011)][5] The trouble with social computing systems research — _"[those following a social science tradition ...  are often the most available reviewers for a systems paper on a social computing topic](http://socratrees.wiki/statement/details/1359) ... [and]...  [may reject a paper until it has conclusively proven an effect](http://socratrees.wiki/statement/details/1364)"_
+
 ## References
 
+- Bernstein, M. S., Ackerman, M. S., Chi, E. H., & Miller, R. C. (2011). [The trouble with social computing systems research.][5] In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 389-398).
 - Levin, R., & Redell, D. D. (1983). [How (and how not) to write a good systems paper.][1] ACM SIGOPS Operating Systems Review, 17(3), 35-40.
 - Olsen Jr, D. R. (2007, October). [Evaluating user interface systems research.][2] In Proceedings of the 20th annual ACM symposium on User interface software and technology (pp. 251-258).
 - Wobbrock, J. O., & Kientz, J. A. (2016). [Research contributions in human-computer interaction.][4] Interactions, 23(3), 38-44.
@@ -41,4 +47,5 @@ Olsen lists three reasons for this decline: (1) [stable and widely used platform
   [2]: https://dl.acm.org/doi/10.1145/1294211.1294256
   [3]: https://cacm.acm.org/blogs/blog-cacm/86066-what-makes-a-good-hci-systems-paper/fulltext
   [4]: http://faculty.washington.edu/wobbrock/pubs/interactions-16.pdf
+  [5]: https://dspace.mit.edu/bitstream/handle/1721.1/64444/Miller_The%20Trouble.pdf%3Bjsessionid%3DD16AE455E533597043205F9490D9439B?sequence%3D1
   
