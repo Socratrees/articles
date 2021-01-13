@@ -31,10 +31,11 @@ Lastly, a Communications of ACM blog post on ["What Makes a Good HCI Systems Pap
 
 Olsen lists three reasons for this decline: (1) [stable and widely used platforms such as Windows, Mac, and Linux now dictate the user interface architecture](http://socratrees.wiki/statement/details/1347), (2) [current HCI researchers lack skills in toolkit or windowing system architecture and design](http://socratrees.wiki/statement/details/1349), and (3) [there is a lack of appropriate criteria for evaluating systems architectures](http://socratrees.wiki/statement/details/1355).
 
-This last point specifically is what Olsen hopes to address in the paper. But, this does not seem to have changed much over the past 13 years, and instead is [a recurring limitation and frustration for HCI researchers that do have the skills to take on this task and are trying to publish systems research](http://socratrees.wiki/statement/details/1357). Here are a select few excerpts in chronological order:
+This last point specifically, a shortcoming in the review process, is what Olsen hopes to address in his paper. But, not much seems to have changed in the past 13 years, as this remains [a recurring limitation—and frustration—for HCI researchers that do have the necessary skill set to perform systems research and try to get it published](http://socratrees.wiki/statement/details/1357). Here are a select few excerpts in chronological order:
 
-- James Landay (2009). [I give up on CHI/UIST](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html) — [_"The reviewers simply do not value the difficulty of building real systems and how hard controlled studies are to run on real systems for real tasks."_](http://socratrees.wiki/statement/details/970)
-- [Bernstein et al. (2011)][5] The trouble with social computing systems research — _"[those following a social science tradition ...  are often the most available reviewers for a systems paper on a social computing topic](http://socratrees.wiki/statement/details/1359) ... [and]...  [may reject a paper until it has conclusively proven an effect](http://socratrees.wiki/statement/details/1364)"_
+> [The reviewers simply do not value the difficulty of building real systems and how hard controlled studies are to run on real systems for real tasks.](http://socratrees.wiki/statement/details/970)  —   James Landay (2009). [I give up on CHI/UIST](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html)
+
+> [[T]hose following a social science tradition ...  are often the most available reviewers for a systems paper on a social computing topic](http://socratrees.wiki/statement/details/1359) ... [and]...  [may reject a paper until it has conclusively proven an effect](http://socratrees.wiki/statement/details/1364) — Bernstein et al. (2011). [The trouble with social computing systems research][5]
 
 ## References
 
