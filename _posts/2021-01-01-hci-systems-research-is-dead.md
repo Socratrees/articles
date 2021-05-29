@@ -37,9 +37,9 @@ This last point specifically, a shortcoming in the review process, is what Olsen
 
 > [[T]hose following a social science tradition ...  are often the most available reviewers for a systems paper on a social computing topic](http://socratrees.wiki/statement/details/1359) ... [and]...  [may reject a paper until it has conclusively proven an effect](http://socratrees.wiki/statement/details/1364) — Bernstein et al. (**2011**). [The trouble with social computing systems research][5]
 
-> [E]ven with specific engineering committees at CHI and whole conferences such as EICS, there is still a lot of confusion about the science part, and [we still have a hard time acknowledging systems research](http://socratrees.wiki/statement/details/1369). ...  [M]y own experience both as an author and as a reviewer for CHI and EICS for many years shows that there is still little agreement among researchers on what makes good systems research. — Michael Nebeling (**2017**). [Playing the Tricky Game of Toolkits Research][7]
+> [E]ven with specific engineering committees at CHI and whole conferences such as EICS, there is still a lot of confusion about the science part, and [we still have a hard time acknowledging systems research](http://socratrees.wiki/statement/details/1369). ... [T]here is still little agreement among researchers on what makes good systems research. — Michael Nebeling (**2017**). [Playing the Tricky Game of Toolkits Research][7]
 
->  [R]esearchers experience toolkit papers as being hard to publish due to various biases ... [A]cceptance of toolkits as a research contribution remains a challenge and a topic of much recurrent discussion. — Ledo et al., (**2018**). [Evaluation Strategies for HCI Toolkit Research][6]
+>  [R]esearchers experience toolkit papers as being hard to publish due to various biases ... [A]cceptance of toolkits as a research contribution remains a challenge and a topic of much recurrent discussion. — Ledo et al. (**2018**). [Evaluation Strategies for HCI Toolkit Research][6]
 
 ## References
 
