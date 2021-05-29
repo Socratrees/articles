@@ -5,7 +5,7 @@ author: Steven Jeuris
 author_website: https://whatheco.de/
 ---
 
-Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](http://socratrees.wiki/statement/details/1326). In this article, I share my experience and rationale for leaving academia for industry.
+Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](http://socratrees.wiki/statement/details/1326). In this article, I share my experience doing systems research and rationale for leaving academia for industry.
 
 **What's up with the leaves?** You will notice strong claims in this article, such as the one above, link to a website called Socratrees. I [welcome you to sign up for private beta](https://socratrees.azurewebsites.net/authenticate/register) and engage with my arguments there to show how foolish they are. You can comment on specific claims I make in this blog post, express agreement by clicking the droplet, or even better, provide counter arguments. Socratrees is one example of what I call "systems research" and will play a crucial part in this story.
 
@@ -13,7 +13,7 @@ Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Inte
 
 I call systems research the type of research that is published as _systems papers_ in HCI.
 It is a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
-For example, [UIST recognizes "systems" as a specific type of contribution](https://uist.acm.org/uist2019/author-guide/) and cites [Levin and Redell (1983)][1] and [Olsen (2007)][2] for guidelines to authors and reviewers of such papers.
+[UIST recognizes "systems" as a specific type of contribution](https://uist.acm.org/uist2019/author-guide/) and cites [Levin and Redell (1983)][1] and [Olsen (2007)][2] for guidelines to authors and reviewers of such papers.
 
 > It presents a real system, either by a global survey of an entire system or by a selective examination of specific themes embodied in the system. — [Levin & Redell, 1983][1]
 
@@ -40,6 +40,18 @@ This last point specifically, a shortcoming in the review process, is what Olsen
 > [E]ven with specific engineering committees at CHI and whole conferences such as EICS, there is still a lot of confusion about the science part, and [we still have a hard time acknowledging systems research](http://socratrees.wiki/statement/details/1369). ... [T]here is still little agreement among researchers on what makes good systems research. — Michael Nebeling (**2017**). [Playing the Tricky Game of Toolkits Research][7]
 
 >  [R]esearchers experience toolkit papers as being hard to publish due to various biases ... [A]cceptance of toolkits as a research contribution remains a challenge and a topic of much recurrent discussion. — Ledo et al. (**2018**). [Evaluation Strategies for HCI Toolkit Research][6]
+
+## The End of Systems Research
+
+[What once was the heart and soul of a growing new field](http://socratrees.wiki/statement/details/1456), and [gave rise to omnipresent technologies such as the Personal Computer](http://socratrees.wiki/statement/details/1491) and [World Wide Web](http://socratrees.wiki/statement/details/1493), is now the underdog at the party.
+Simply put: [systems research is not valued as much as other types of contributions in HCI](http://socratrees.wiki/statement/1451).
+As a result, this [gives academic researchers no incentive to do systems research](http://socratrees.wiki/statement/1007); it is a certain way to stall your academic career [as it is much harder to get system papers accepted than other types of contributions](http://socratrees.wiki/statement/1009). And, we all know that [publication count matters in academia](http://socratrees.wiki/statement/1011).
+
+Ska punk may not be for everyone, but I found ["A Moment of Silence" by Streetlight Manifesto](https://www.youtube.com/watch?v=U5_tbnaoGiE) a particularly suitable soundtrack to describe how I feel as a systems researcher in the HCI community.
+
+> A moment of silence, please, for those who never get the chance,
+> They show up to the party but they’re never asked to dance.
+
 
 ## References
 
