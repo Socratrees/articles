@@ -47,10 +47,22 @@ This last point specifically, a shortcoming in the review process, is what Olsen
 Simply put: [systems research is not valued as much as other types of contributions in HCI](http://socratrees.wiki/statement/details/1451).
 As a result, this [gives academic researchers no incentive to do systems research](http://socratrees.wiki/statement/details/1007); it is a certain way to stall your academic career [as it is much harder to get system papers accepted than other types of contributions](http://socratrees.wiki/statement/details/1009). And, we all know that [publication count matters in academia](http://socratrees.wiki/statement/details/1011).
 
-Ska punk may not be for everyone, but I found ["A Moment of Silence" by Streetlight Manifesto](https://www.youtube.com/watch?v=U5_tbnaoGiE) a particularly suitable soundtrack to describe how I feel as a systems researcher in the HCI community.
+I found ["A Moment of Silence" by Streetlight Manifesto](https://www.youtube.com/watch?v=U5_tbnaoGiE) a particularly suitable soundtrack to describe how I feel as a systems researcher in the HCI community.
 
 > A moment of silence, please, for those who never get the chance,
 > They show up to the party but they’re never asked to dance.
+
+In 2013, I was ready to leave academia for industry (I was working part-time while doing my Masters degree), but after a presentation of my MSc thesis I got offered a PhD position to continue research on the topic of my choosing: [activity-centric computing (ACC)](https://cacm.acm.org/magazines/2019/8/238346-activity-centric-computing-systems/fulltext).
+This topic has its roots in seminal HCI research by Xerox PARC in the late 80s and tackles fundamental issues in computing. It's the type of research I love and which I argue nowadays is mostly "dead".
+
+With a stroke of luck, I managed to publish [a system paper at UIST in 2014](https://dl.acm.org/doi/10.1145/2642918.2647391), spanning my full MSc thesis and a year of continued work as part of my PhD. But, it is also the last system paper I ever managed to publish. Without it, I likely never would have graduated and continue on as a Postdoc. Many failed submissions later (including a small grant), I have a pretty good understanding of [how unfairly system papers are reviewed compared to other contributions](https://socratrees.azurewebsites.net/statement/960/systems-research-is-reviewed-unfairly-compared-to-other-types-of-contributions-in-human-computer-interaction#normal_970_supports_960), and I am throwing in the towel.
+
+To again quote Streetlight Manifesto in a complement to their previous song, ["A Moment of Violence"](https://www.youtube.com/watch?v=tsY1BwVo0kI):
+
+> Sit tight but the revolution's years away
+> I'm losing faith and I'm running low on things to say
+> So I guess I have no choice but to regurgitate
+> The tired anthem of a loser and a hypocrite
 
 
 ## References
