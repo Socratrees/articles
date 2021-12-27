@@ -5,25 +5,29 @@ author: Steven Jeuris
 author_website: https://whatheco.de/
 ---
 
-Sorry for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](http://socratrees.wiki/statement/details/1326). In this article, I share my experience doing systems research and rationale for leaving academia for industry.
+My apologies for the clickbait. Let me rephrase: _at least to me_, [Human-Computer Interaction (HCI) systems research is dead](http://socratrees.wiki/statement/details/1326). In this article, I share my experience doing systems research and rationale for leaving academia for industry after five years of being a postdoc.
 
-**What's up with the leaves?** You will notice strong claims in this article, such as the one above, link to a website called Socratrees. I [welcome you to sign up for private beta](https://socratrees.azurewebsites.net/authenticate/register) and engage with my arguments there to show how foolish they are. You can comment on specific claims I make in this blog post, express agreement by clicking the droplet, or even better, provide counter arguments. Socratrees is one example of what I call "systems research" and will play a crucial part in this story.
+**What's up with the leaves?** You will notice strong claims in this article, such as the one above, link to a website for argumentation called Socratrees. I [welcome you to sign up for private beta](https://socratrees.azurewebsites.net/authenticate/register) and engage with my arguments there to show how foolish they are. You can comment on specific claims I make in this blog post, express agreement by clicking the droplet, or even better, provide counter arguments. Socratrees is one example of what I call "systems research" and will play a crucial role in this story.
 
 ## What Is Systems Research?
 
-I call systems research the type of research that is published as _systems papers_ in HCI.
-It is a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
 [UIST recognizes "systems" as a specific type of contribution](https://uist.acm.org/uist2019/author-guide/) and cites [Levin and Redell (1983)][1] and [Olsen (2007)][2] for guidelines to authors and reviewers of such papers.
 
 > It presents a real system, either by a global survey of an entire system or by a selective examination of specific themes embodied in the system. — [Levin & Redell, 1983][1]
 
-Olsen qualifies _user interface systems_ research as researching ...
+Considering how to evaluate "real" _user interface systems_, Olsen states that ...
 
-> [c]omplex systems [that] [generally do not yield to simple controlled experimentation](http://socratrees.wiki/statement/details/1340). This is mostly due to the fact that [good systems deal in complexity](http://socratrees.wiki/statement/details/1343) and [complexity confounds controlled experimentation](http://socratrees.wiki/statement/details/1344). — [Olsen, 2007][2]
+> [c]omplex systems [generally do not yield to simple controlled experimentation](http://socratrees.wiki/statement/details/1340). This is mostly due to the fact that [good systems deal in complexity](http://socratrees.wiki/statement/details/1343) and [complexity confounds controlled experimentation](http://socratrees.wiki/statement/details/1344). — [Olsen, 2007][2]
 
-Lastly, a Communications of ACM blog post on ["What Makes a Good HCI Systems Paper"][3] by Tessa Lau states:
+Similarly, a Communications of ACM blog post on ["What Makes a Good HCI Systems Paper"][3] by Tessa Lau states:
 
-> Systems often try to solve a novel problem for which there was no previous approach. The value of these systems might not be quantified until they are deployed in the field and evaluated with large numbers of actual users.  Yet doing such evaluation incurs a significant amount of time and engineering work, [particularly compared to non-systems papers](http://socratrees.wiki/statement/details/985).
+> Systems often try to solve a novel problem for which there was no previous approach. The value of these systems might not be quantified until they are deployed in the field and evaluated with large numbers of actual users. Yet doing such evaluation incurs a significant amount of time and engineering work, [particularly compared to non-systems papers](http://socratrees.wiki/statement/details/985).
+
+Building complex systems to be used in a novel real-world setting—as opposed to in a highly controlled study—not only [complicates evaluation](http://socratrees.wiki/statement/details/1340) but [also _implementation_](http://socratrees.wiki/statement/details/977).
+[Existing software architectures often do not support the envisioned user operations](http://socratrees.wiki/statement/details/1523), requiring [a new software architecture to be built](http://socratrees.wiki/statement/details/1522).
+Furthermore, [given the impossibility of replacing _all_ functionality of existing systems](http://socratrees.wiki/statement/details/1528), the new software architecture needs to [integrate with existing systems in cases where users rely on them](http://socratrees.wiki/statement/details/1525).
+
+Systems should thus be seen a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
 
 ## Decline in Systems Research
 
