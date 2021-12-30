@@ -25,9 +25,24 @@ Similarly, a Communications of ACM blog post on ["What Makes a Good HCI Systems 
 
 Building complex systems to be used in a novel real-world setting—as opposed to in a highly controlled study—not only [complicates evaluation](http://socratrees.wiki/statement/details/1340) but [also _implementation_](http://socratrees.wiki/statement/details/977).
 [Existing software architectures often do not support the envisioned user operations](http://socratrees.wiki/statement/details/1523), requiring [a new software architecture to be built](http://socratrees.wiki/statement/details/1522).
-Furthermore, [given the impossibility of replacing _all_ functionality of existing systems](http://socratrees.wiki/statement/details/1528), the new software architecture needs to [integrate with existing systems in cases where users rely on them](http://socratrees.wiki/statement/details/1525).
+Furthermore, [given that a new system never replaces _all_ existing functionality](http://socratrees.wiki/statement/details/1528), the new software architecture needs to [integrate with existing systems in cases where users rely on them](http://socratrees.wiki/statement/details/1525).
 
 Systems should thus be seen a specific type of "artifact contribution" in HCI which is different in nature from other artifact contributions such as new input and interaction techniques ([Wobbrock & Kient, 2016][4]).
+
+## A Narrower Definition of Systems Research
+
+While accurate, I find that these overly broad descriptions of systems research do not get to the heart of what frustrates many, whom I will be citing in this article, hoping to contribute to this topic in HCI.
+Should [any novel real application be considered systems research](http://socratrees.wiki/statement/details/1529?inverse=true)? Should [trivial modifications to existing systems be considered systems research](http://socratrees.wiki/statement/details/1530?inverse=true)? I think not.
+
+Outside of HCI, [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), known for his work on UTF-8 and the Go programming language, refers to "systems" as operating systems, languages, or more generally "the things that connect programs together" ([Pike R., 2000][8]).
+In this broader context, one could thus view HCI systems as **user interfaces that connect applications together**.
+
+It is [the interplay between software architecture and the novel cross-application user interactions it enables](http://socratrees.wiki/statement/details/1531) which, to me, sets HCI systems research apart from mere "applications". Often, systems research tries to _reimagine_ what an "application" is. Two examples in my own line of work:
+
+- Laevo ([Jeuris et al., 2014][9]) presents an activity-centric software architecture integrating traditional task, window, and file management. As a systems research contribution, it envisions a future by prototyping a solution in which personal computer users are no longer burdened with file management. Instead, window configurations can be organized and persisted on a time line as part of task management.
+- Socratrees ([Jeuris, 2018][10]) explores the design of a new information infrastructure to evaluate, contest, and reason about information online—as opposed to merely disseminating it. As a systems research contribution, it envisions a future in which claims represented in multiple media sources (e.g., this article) can link to a central repository of aggregated structured argumentation.
+
+Considering systems research in this narrower sense, I find that the arguments presented below become all the more convincing and relevant.
 
 ## Decline in Systems Research
 
@@ -59,7 +74,7 @@ I found ["A Moment of Silence" by Streetlight Manifesto](https://www.youtube.com
 In 2013, I was ready to leave academia for industry (I was working part-time while doing my Masters degree), but after a presentation of my MSc thesis I got offered a PhD position to continue research on the topic of my choosing: [activity-centric computing (ACC)](https://cacm.acm.org/magazines/2019/8/238346-activity-centric-computing-systems/fulltext).
 This topic has its roots in seminal HCI research by Xerox PARC in the late 80s and tackles fundamental issues in computing. It's the type of research I love and which I argue nowadays is mostly "dead".
 
-With a stroke of luck, I managed to publish [a system paper at UIST in 2014](https://dl.acm.org/doi/10.1145/2642918.2647391), spanning my full MSc thesis and a year of continued work as part of my PhD. But, it is also the last system paper I ever published. Without it, I likely never would have graduated and continued on as a Postdoc. Today, many failed submissions later (including a small grant), I have a pretty good understanding of [how unfairly system papers are reviewed compared to other contributions](http://socratrees.wiki/statement/details/960), and I am throwing in the towel.
+With a stroke of luck, I managed to publish [a system paper at UIST in 2014][9], spanning my full MSc thesis and a year of continued work as part of my PhD. But, it is also the last system paper I ever published. Without it, I likely never would have graduated and continued on as a Postdoc. Today, many failed submissions later (including a small grant), I have a pretty good understanding of [how unfairly system papers are reviewed compared to other contributions](http://socratrees.wiki/statement/details/960), and I am throwing in the towel.
 
 To again quote Streetlight Manifesto in a complement to their previous song, ["A Moment of Violence"](https://www.youtube.com/watch?v=tsY1BwVo0kI):
 
@@ -76,10 +91,13 @@ Work in progress ...
 ## References
 
 - Bernstein, M. S., Ackerman, M. S., Chi, E. H., & Miller, R. C. (2011). [The trouble with social computing systems research.][5] In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 389-398).
+- Jeuris, S. (2018). [Socratrees: Exploring the Design of Argument Technology for Layman Users.][10] arXiv preprint arXiv:1812.04478.
+- Jeuris, S., Houben, S., & Bardram, J. (2014). [Laevo: A temporal desktop interface for integrated knowledge work.][9] In Proceedings of the 27th annual ACM symposium on User interface software and technology (pp. 679-688).
 - Ledo, D., Houben, S., Vermeulen, J., Marquardt, N., Oehlberg, L., & Greenberg, S. (2018, April). [Evaluation strategies for HCI toolkit research.][6] In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-17).
 - Levin, R., & Redell, D. D. (1983). [How (and how not) to write a good systems paper.][1] ACM SIGOPS Operating Systems Review, 17(3), 35-40.
 - Nebeling, M. (2017). [Playing the Tricky Game of Toolkits Research.][7] In workshop on HCI. Tools at CHI.
-- Olsen Jr, D. R. (2007, October). [Evaluating user interface systems research.][2] In Proceedings of the 20th annual ACM symposium on User interface software and technology (pp. 251-258).
+- Olsen Jr, D. R. (2007). [Evaluating user interface systems research.][2] In Proceedings of the 20th annual ACM symposium on User interface software and technology (pp. 251-258).
+- Pike, R. (2000). [Systems software research is irrelevant.][8] In Talk. CS Colloquium, Columbia University.
 - Wobbrock, J. O., & Kientz, J. A. (2016). [Research contributions in human-computer interaction.][4] Interactions, 23(3), 38-44.
 
   [1]: https://www.usenix.org/legacy/event/samples/submit/advice.html
@@ -89,3 +107,7 @@ Work in progress ...
   [5]: https://dspace.mit.edu/bitstream/handle/1721.1/64444/Miller_The%20Trouble.pdf%3Bjsessionid%3DD16AE455E533597043205F9490D9439B?sequence%3D1
   [6]: https://dl.acm.org/doi/abs/10.1145/3173574.3173610
   [7]: http://www.michael-nebeling.de/publications/chi17w.pdf
+  [8]: http://doc.cat-v.org/bell_labs/utah2000/utah2000.html
+  [9]: https://dl.acm.org/doi/10.1145/2642918.2647391
+  [10]: https://arxiv.org/abs/1812.04478
+  
