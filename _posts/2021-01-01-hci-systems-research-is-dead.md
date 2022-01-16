@@ -60,11 +60,14 @@ This last point specifically, a shortcoming in the review process, is what Olsen
 
 >  [R]esearchers experience toolkit papers as being hard to publish due to various biases ... [A]cceptance of toolkits as a research contribution remains a challenge and a topic of much recurrent discussion. — Ledo et al. (**2018**). [Evaluation Strategies for HCI Toolkit Research][6]
 
+Simply put: [systems research is not valued as much as other types of contributions in HCI](http://socratrees.wiki/statement/details/1451).
+As a result, this [gives academic researchers no incentive to do systems research](http://socratrees.wiki/statement/details/1007); it is a certain way to stall your academic career [as it is much harder to get system papers accepted than other types of contributions](http://socratrees.wiki/statement/details/1009). And, we all know that [publication count matters in academia](http://socratrees.wiki/statement/details/1011).
+
+Arguably, [this is the main reason HCI systems research is in decline](http://socratrees.wiki/statement/details/1536); [why contribute your work to academia when greater incentives can be found elsewhere](http://socratrees.wiki/statement/details/1537), e.g., as commercial offerings or works of passion?
+
 ## The End of Systems Research
 
 [What once was the heart and soul of a growing new field](http://socratrees.wiki/statement/details/1456), and [gave rise to omnipresent technologies such as the Personal Computer](http://socratrees.wiki/statement/details/1491) and [World Wide Web](http://socratrees.wiki/statement/details/1493), is now the underdog at the party.
-Simply put: [systems research is not valued as much as other types of contributions in HCI](http://socratrees.wiki/statement/details/1451).
-As a result, this [gives academic researchers no incentive to do systems research](http://socratrees.wiki/statement/details/1007); it is a certain way to stall your academic career [as it is much harder to get system papers accepted than other types of contributions](http://socratrees.wiki/statement/details/1009). And, we all know that [publication count matters in academia](http://socratrees.wiki/statement/details/1011).
 
 I found ["A Moment of Silence" by Streetlight Manifesto](https://www.youtube.com/watch?v=U5_tbnaoGiE) a particularly suitable soundtrack to describe how I feel as a systems researcher in the HCI community.
 
