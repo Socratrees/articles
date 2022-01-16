@@ -65,26 +65,33 @@ As a result, this [gives academic researchers no incentive to do systems researc
 
 Arguably, [this is the main reason HCI systems research is in decline](http://socratrees.wiki/statement/details/1536); [why contribute your work to academia when greater incentives can be found elsewhere](http://socratrees.wiki/statement/details/1537), e.g., as commercial offerings or works of passion?
 
+## Explosion of Empirical Research
+
+Again, a parallel can be drawn with system research outside of HCI. Many years ago, [Rob Pike (2000)][8] observed that operating systems research is a "Field in Decline".
+Interestingly, many of the explanations and concerns he raised overlap.
+
+> If systems research was relevant, we'd see new operating systems and new languages making inroads into the industry, the way we did in the '70s and '80s.
+> Instead, we see a thriving software industry that largely ignores research, and a research community that writes papers rather than software.
+
+> ... invention has been replaced by observation.
+
+Could this be a recurring pattern?
+
+I like to visualize HCI as an expanding field of research over time. As technology evolves, the context studied in user interface design expands ([Jeuris, 2017][11]; Figure 4).
+
+![As technology evolves, from hardware, to software, to desktop computing, to personal information management, to social media, the context studied in user interface design expands, and draws on different fields of research, from engineering, to mathematics, to programming, to design, to cognitive science, to social sciences.](/articles/assets/images/hci-context-expands.png)
+
+Design research, cognitive science, and social sciences have contributed tremendously to our understanding on how to take into account a broader context when designing technologies, i.e., methods and theories to design better artifacts.
+
+Simultaneously, observation studies have taught us the shortcomings and pitfalls of current systems.
+Empirical research, from quantitative controlled experiments to qualitative ethnographies, are key components of the scientific method. As such, it's easy to see why they are readily accepted as research contributions in HCI.
+
+However, shouldn't someone be incorporating these insights into new systems?
+Unfortunately, each time a specific technology becomes mainstream, whether it is an operating system, window mangager, or social media platform, innovation in academia seems to stall, and is mostly reduced to running empirical studies on whatever system industry produces, or small adaptations thereof.
+
 ## The End of Systems Research
 
-[What once was the heart and soul of a growing new field](http://socratrees.wiki/statement/details/1456), and [gave rise to omnipresent technologies such as the Personal Computer](http://socratrees.wiki/statement/details/1491) and [World Wide Web](http://socratrees.wiki/statement/details/1493), is now the underdog at the party.
-
-I found ["A Moment of Silence" by Streetlight Manifesto](https://www.youtube.com/watch?v=U5_tbnaoGiE) a particularly suitable soundtrack to describe how I feel as a systems researcher in the HCI community.
-
-> A moment of silence, please, for those who never get the chance,
-> They show up to the party but they’re never asked to dance.
-
-In 2013, I was ready to leave academia for industry (I was working part-time while doing my Masters degree), but after a presentation of my MSc thesis I got offered a PhD position to continue research on the topic of my choosing: [activity-centric computing (ACC)](https://cacm.acm.org/magazines/2019/8/238346-activity-centric-computing-systems/fulltext).
-This topic has its roots in seminal HCI research by Xerox PARC in the late 80s and tackles fundamental issues in computing. It's the type of research I love and which I argue nowadays is mostly "dead".
-
-With a stroke of luck, I managed to publish [a system paper at UIST in 2014][9], spanning my full MSc thesis and a year of continued work as part of my PhD. But, it is also the last system paper I ever published. Without it, I likely never would have graduated and continued on as a Postdoc. Today, many failed submissions later (including a small grant), I have a pretty good understanding of [how unfairly system papers are reviewed compared to other contributions](http://socratrees.wiki/statement/details/960), and I am throwing in the towel.
-
-To again quote Streetlight Manifesto in a complement to their previous song, ["A Moment of Violence"](https://www.youtube.com/watch?v=tsY1BwVo0kI):
-
-> Sit tight but the revolution's years away
-> I'm losing faith and I'm running low on things to say
-> So I guess I have no choice but to regurgitate
-> The tired anthem of a loser and a hypocrite
+Work in progress ...
 
 ## Do We Need Systems Research?
 
@@ -94,6 +101,7 @@ Work in progress ...
 ## References
 
 - Bernstein, M. S., Ackerman, M. S., Chi, E. H., & Miller, R. C. (2011). [The trouble with social computing systems research.][5] In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 389-398).
+- Jeuris, S. (2017). [Task and Interruption Management in Activity-centric Computing][11] (Doctoral dissertation, IT University of Copenhagen, Software Development Group, Pervasive Interaction Technology Laboratory).
 - Jeuris, S. (2018). [Socratrees: Exploring the Design of Argument Technology for Layman Users.][10] arXiv preprint arXiv:1812.04478.
 - Jeuris, S., Houben, S., & Bardram, J. (2014). [Laevo: A temporal desktop interface for integrated knowledge work.][9] In Proceedings of the 27th annual ACM symposium on User interface software and technology (pp. 679-688).
 - Ledo, D., Houben, S., Vermeulen, J., Marquardt, N., Oehlberg, L., & Greenberg, S. (2018, April). [Evaluation strategies for HCI toolkit research.][6] In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-17).
@@ -113,4 +121,5 @@ Work in progress ...
   [8]: http://doc.cat-v.org/bell_labs/utah2000/utah2000.html
   [9]: https://dl.acm.org/doi/10.1145/2642918.2647391
   [10]: https://arxiv.org/abs/1812.04478
+  [11]: https://pure.itu.dk/ws/files/83014578/PhD_thesis_Final_Version._Steven_Jeuris_for_online.pdf
   
