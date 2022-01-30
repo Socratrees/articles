@@ -50,7 +50,7 @@ Considering systems research in this narrower sense, I find that the arguments p
 
 Olsen lists three reasons for this decline: (1) [stable and widely used platforms such as Windows, Mac, and Linux now dictate the user interface architecture](http://socratrees.wiki/statement/details/1347), (2) [current HCI researchers lack skills in toolkit or windowing system architecture and design](http://socratrees.wiki/statement/details/1349), and (3) [there is a lack of appropriate criteria for evaluating systems architectures](http://socratrees.wiki/statement/details/1355).
 
-This last point specifically, a shortcoming in the review process, is what Olsen hopes to address in his paper. But, not much seems to have changed in the past 13 years, as this remains [a recurring limitation—and frustration—for HCI researchers that do have the necessary skill set to perform systems research and try to get it published](http://socratrees.wiki/statement/details/1357). Here are a select few excerpts in chronological order:
+This last point specifically, a shortcoming in the review process, is what Olsen hopes to address in his paper. But, not much seems to have changed in the past 14 years, as this remains [a recurring limitation—and frustration—for HCI researchers that do have the necessary skill set to perform systems research and try to get it published](http://socratrees.wiki/statement/details/1357). Here are a select few excerpts in chronological order:
 
 > [The reviewers simply do not value the difficulty of building real systems and how hard controlled studies are to run on real systems for real tasks.](http://socratrees.wiki/statement/details/970)  —   James Landay (**2009**). [I give up on CHI/UIST](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html)
 
@@ -67,7 +67,7 @@ Arguably, [this is the main reason HCI systems research is in decline](http://so
 
 ## Explosion of Empirical Research
 
-Again, a parallel can be drawn with system research outside of HCI. Many years ago, [Rob Pike (2000)][8] observed that operating systems research is a "Field in Decline".
+Again, a parallel can be drawn with systems research outside of HCI. Many years ago, [Rob Pike (2000)][8] observed that operating systems research is a "field in decline".
 Interestingly, many of the explanations and concerns he raised overlap.
 
 > If systems research was relevant, we'd see new operating systems and new languages making inroads into the industry, the way we did in the '70s and '80s.
@@ -79,6 +79,8 @@ Could this be a recurring pattern?
 
 I like to visualize HCI as an expanding field of research over time. As technology evolves, the context studied in user interface design expands ([Jeuris, 2017][11]; Figure 4).
 
+> [O]riginally there was a focus on the hardware interface, followed by a focus on software, whereas most of HCI research today focuses on the work settings and its associated social context.
+
 ![As technology evolves, from hardware, to software, to desktop computing, to personal information management, to social media, the context studied in user interface design expands, and draws on different fields of research, from engineering, to mathematics, to programming, to design, to cognitive science, to social sciences.](/articles/assets/images/hci-context-expands.png)
 
 Design research, cognitive science, and social sciences have contributed tremendously to our understanding on how to take into account a broader context when designing technologies, i.e., methods and theories to design better artifacts.
@@ -87,11 +89,26 @@ Simultaneously, observation studies have taught us the shortcomings and pitfalls
 Empirical research, from quantitative controlled experiments to qualitative ethnographies, are key components of the scientific method. As such, it's easy to see why they are readily accepted as research contributions in HCI.
 
 However, shouldn't someone be incorporating these insights into new systems?
-Unfortunately, each time a specific technology becomes mainstream, whether it is an operating system, window mangager, or social media platform, innovation in academia seems to stall, and is mostly reduced to running empirical studies on whatever system industry produces, or small adaptations thereof.
+Unfortunately, each time a specific technology becomes mainstream, whether it is an operating system, window mangager, or social media platform, innovation in academia seems to stall, and is mostly reduced to running empirical studies on whatever system industry produces, or on small adaptations thereof.
 
 ## The End of Systems Research
 
-Work in progress ...
+[What once was the heart and soul of a growing new field](http://socratrees.wiki/statement/details/1456), and [gave rise to omnipresent technologies such as the Personal Computer](http://socratrees.wiki/statement/details/1491) and [World Wide Web](http://socratrees.wiki/statement/details/1493), is now a near-extinct line of research.
+HCI shuns systematic generalizations and applauds creating evermore specific descriptions of practice and tools to support it.
+
+Again, HCI is not alone in this. [Rob Pike (2000)][8] argues how this is the result of a "change of scale":
+
+> [M]uch of the interesting work requires effort on a large scale. Many person-years are required to write a modern, realistic system. That is beyond the scope of most university departments.
+
+> This means that industry tends to do the big, defining projects—operating systems, infrastructure, etc.—and small research groups must find smaller things to work on.
+
+In other words: academic computer science research doesn't "go for breadth", it "go[es] for depth".
+
+The few remaining researchers targeting _breadth_, i.e., systems research, are faced with the near-insurmountable task of convincing their "peers", inured in a _depth-first_ culture, that the work they do should be considered research at all. Complaints and examples abound on social media, e.g., [one reviewer's nonsensical claim that "this is a systems paper framed as a research paper"](https://twitter.com/joe_hellerstein/status/1064710469900890113).
+
+I've observed the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution.**
+In a way, this is understandable. Reviewers are asked to criticize your work, and systems research tends to raise many questions.
+The more ground you cover, the more likely they'll be able to envision and spot missing features; the more related work you introduce, the more similarities they see, the more likely they'll see your work as "incremental" and argue the contribution is not large enough to warrant publication.
 
 ## Do We Need Systems Research?
 
