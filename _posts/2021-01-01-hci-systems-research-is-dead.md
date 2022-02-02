@@ -67,13 +67,13 @@ Arguably, [this is the main reason HCI systems research is in decline](http://so
 
 ## Explosion of Empirical Research
 
-Again, a parallel can be drawn with systems research outside of HCI. Many years ago, [Rob Pike (2000)][8] observed that operating systems research is a "field in decline".
+Again, a parallel can be drawn with systems research outside of HCI. Many years ago, [Rob Pike (2000)][8] observed that [operating systems research is a "field in decline"](http://socratrees.wiki/statement/details/1543).
 Interestingly, many of the explanations and concerns he raised overlap.
 
 > If systems research was relevant, we'd see new operating systems and new languages making inroads into the industry, the way we did in the '70s and '80s.
-> Instead, we see a thriving software industry that largely ignores research, and a research community that writes papers rather than software.
+> Instead, we see a thriving software industry [that largely ignores research](http://socratrees.wiki/statement/details/1539), and a research community [that writes papers rather than software](http://socratrees.wiki/statement/details/1540).
 
-> ... invention has been replaced by observation.
+> ... [invention has been replaced by observation](http://socratrees.wiki/statement/details/1541).
 
 Could this be a recurring pattern?
 
