@@ -96,6 +96,8 @@ Unfortunately, each time a specific technology becomes mainstream, whether it is
 [What once was the heart and soul of a growing new field](http://socratrees.wiki/statement/details/1456), and [gave rise to omnipresent technologies such as the Personal Computer](http://socratrees.wiki/statement/details/1491) and [World Wide Web](http://socratrees.wiki/statement/details/1493), is now a near-extinct line of research.
 HCI shuns systematic generalizations and applauds creating evermore specific descriptions of practice and tools to support it.
 
+> We predominantly produce technology that is somewhat better than its antecedents, but these technologies rarely make it into the commercial world (although they may influence it somewhat). We also see technologies that are highly successful but not developed by the CHI community, so we are left to evaluate its usability only after the fact. — [Greenberg & Buxton, 2008][12]. [The trouble with social computing systems research][5]
+
 Again, HCI is not alone in this. [Rob Pike (2000)][8] argues how this is the result of a "change of scale":
 
 > [M]uch of the interesting work requires effort on a large scale. Many person-years are required to write a modern, realistic system. That is beyond the scope of most university departments.
@@ -106,9 +108,17 @@ In other words: academic computer science research doesn't "go for breadth", it 
 
 The few remaining researchers targeting _breadth_, i.e., systems research, are faced with the near-insurmountable task of convincing their "peers", inured in a _depth-first_ culture, that the work they do should be considered research at all. Complaints and examples abound on social media, e.g., [one reviewer's nonsensical claim that "this is a systems paper framed as a research paper"](https://twitter.com/joe_hellerstein/status/1064710469900890113).
 
-I've observed the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution.**
-In a way, this is understandable. Reviewers are asked to criticize your work, and systems research tends to raise many questions.
-The more ground you cover, the more likely they'll be able to envision and spot missing features; the more related work you introduce, the more similarities they see, the more likely they'll see your work as "incremental" and argue the contribution is not large enough to warrant publication.
+This is only human: reviewers are asked to criticize your work, and systems research tends to raise many questions.
+The more ground you cover, the more likely reviewers will be able to envision and spot missing features. The more related work you introduce, the more similarities with other systems they'll see.
+The latter, more often than not, leads to contributions being labeled as "incremental", which out of hand is equated with "too small to warrant publication"; so much for ["standing on the shoulders of giants"](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
+This leads to the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution.**
+
+Not only does this make it hard to publish systems research, it incentivizes _bad_ research:
+
+- When confronted with a design challenge, don't look for a solution beyond the specific context in which it was first observed or you obtained funding for. The _external validity_ of your work is less important than presenting novel and positive findings. The more you scope your work, the easier it is to argue for novelty and the less variance in the data you collect.
+- Limit the introduction of related systems of fields that your "peers" are unlikely to know about, and abstain from highlighting how your work is similar. It will unncessarily decrease your chances of getting accepted.
+- Don't report on design challenges you uncover as part of creating and using an "interactive sketch" ([Greenberg & Buxton, 2008][12]). Many reviewers will treat design insights as a failed empirical evaluation and ask you to revise and resubmit.
+
 
 ## Do We Need Systems Research?
 
@@ -118,6 +128,7 @@ Work in progress ...
 ## References
 
 - Bernstein, M. S., Ackerman, M. S., Chi, E. H., & Miller, R. C. (2011). [The trouble with social computing systems research.][5] In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 389-398).
+- Greenberg, S., & Buxton, B. (2008). [Usability evaluation considered harmful (some of the time).][12] In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 111-120).
 - Jeuris, S. (2017). [Task and Interruption Management in Activity-centric Computing][11] (Doctoral dissertation, IT University of Copenhagen, Software Development Group, Pervasive Interaction Technology Laboratory).
 - Jeuris, S. (2018). [Socratrees: Exploring the Design of Argument Technology for Layman Users.][10] arXiv preprint arXiv:1812.04478.
 - Jeuris, S., Houben, S., & Bardram, J. (2014). [Laevo: A temporal desktop interface for integrated knowledge work.][9] In Proceedings of the 27th annual ACM symposium on User interface software and technology (pp. 679-688).
@@ -139,4 +150,5 @@ Work in progress ...
   [9]: https://dl.acm.org/doi/10.1145/2642918.2647391
   [10]: https://arxiv.org/abs/1812.04478
   [11]: https://pure.itu.dk/ws/files/83014578/PhD_thesis_Final_Version._Steven_Jeuris_for_online.pdf
+  [12]: https://dl.acm.org/doi/abs/10.1145/1357054.1357074
   
