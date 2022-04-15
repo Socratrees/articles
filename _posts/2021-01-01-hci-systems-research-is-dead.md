@@ -96,7 +96,7 @@ Unfortunately, each time a specific technology becomes mainstream, whether it is
 [What once was the heart and soul of a growing new field](http://socratrees.wiki/statement/details/1456), and [gave rise to omnipresent technologies such as the Personal Computer](http://socratrees.wiki/statement/details/1491) and [World Wide Web](http://socratrees.wiki/statement/details/1493), is now a near-extinct line of research.
 HCI shuns systematic generalizations and applauds creating evermore specific descriptions of practice and tools to support it.
 
-> We predominantly produce technology that is somewhat better than its antecedents, but these technologies rarely make it into the commercial world (although they may influence it somewhat). We also see technologies that are highly successful but not developed by the CHI community, so we are left to evaluate its usability only after the fact. — [Greenberg & Buxton, 2008][12]. [The trouble with social computing systems research][5]
+> We predominantly produce technology that is somewhat better than its antecedents, but these technologies rarely make it into the commercial world (although they may influence it somewhat). We also see technologies that are highly successful but not developed by the CHI community, so we are left to evaluate its usability only after the fact. — [Greenberg & Buxton, 2008][12].
 
 Again, HCI is not alone in this. [Rob Pike (2000)][8] argues how this is the result of a "change of scale":
 
@@ -117,7 +117,18 @@ Not only does this make it hard to publish systems research, it incentivizes _ba
 
 - When confronted with a design challenge, don't look for a solution beyond the specific context in which it was first observed or you obtained funding for. The _external validity_ of your work is less important than presenting novel and positive findings. The more you scope your work, the easier it is to argue for novelty and the less variance in the data you collect.
 - Limit the introduction of related systems of fields that your "peers" are unlikely to know about, and abstain from highlighting how your work is similar. It will unncessarily decrease your chances of getting accepted.
-- Don't report on design challenges you uncover as part of creating and using an "interactive sketch" ([Greenberg & Buxton, 2008][12]). Many reviewers will treat design insights as a failed empirical evaluation and ask you to revise and resubmit.
+- Don't report on design challenges you uncover as part of creating and using an "interactive sketch" ([Greenberg & Buxton, 2008][12]). Many reviewers will treat such design insights as a failed empirical evaluation and ask you to revise and resubmit.
+
+But don't take my word for it. Here are some especially egregious reviews, exemplary of the points made above, of past submissions of mine.
+They serve no other purpose than to demonstrate where the frustrations of systems researchers with the review process come from, so if you are familiar with this firsthand, feel free to skip to the next section. 
+
+### Examples of system paper reviews
+
+My very first submission, a [works-in-progress paper to CHI 2013]({{ site.baseurl }}{% link /assets/files/CHI2013-Laevo-submission.pdf %}), presented the design, implementation, and evaluation of a window manager which "repurpose[s] the calendar metaphor to not only plan tasks, but also to provide an overview of ongoing tasks, allow switching between them, and reflecting on past tasks." But, this was not deemed novel enough since previous window managers also included temporal features, and though some novelty was recognized, the work was deemed too preliminary for a _works-in-progress_ submission. The paper was based on my MSc thesis, representing half a year worth of work.
+
+> I have concerns about the novelty of the work. The author's core idea of providing a temporal way to organize groups of windows has been done before.
+... Again, the author's ideas are good ones, but unfortunately it seems like they are not novel enough to the CHI community at this stage. Still, let me emphasize there are some very cool, novel aspects of the author's work which are not thoroughly explored--such as integration of the user's window/task manager with their calendar.
+... And while I don't think there is enough novelty in this submission to make it a good fit for WiP, I look forward to seeing how this work evolves in the future. — **rated 2/5 by "Expert"**
 
 
 ## Do We Need Systems Research?
