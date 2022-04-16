@@ -111,7 +111,8 @@ The few remaining researchers targeting _breadth_, i.e., systems research, are f
 This is only human: reviewers are asked to criticize your work, and systems research tends to raise many questions.
 The more ground you cover, the more likely reviewers will be able to envision and spot missing features. The more related work you introduce, the more similarities with other systems they'll see.
 The latter, more often than not, leads to contributions being labeled as "incremental", which out of hand is equated with "too small to warrant publication"; so much for ["standing on the shoulders of giants"](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
-This leads to the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution.**
+And due to the large scope covered by systems research, even the most constructive reviews will request details you may have omitted intentionally to make space for information requested as part of a previous reviewing round.
+This leads to the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution and request additional work.**
 
 Not only does this make it hard to publish systems research, it incentivizes _bad_ research:
 
@@ -120,16 +121,17 @@ Not only does this make it hard to publish systems research, it incentivizes _ba
 - Don't report on design challenges you uncover as part of creating and using an "interactive sketch" ([Greenberg & Buxton, 2008][12]). Many reviewers will treat such design insights as a failed empirical evaluation and ask you to revise and resubmit.
 
 But don't take my word for it. Here are some especially egregious reviews, exemplary of the points made above, of past submissions of mine.
-They serve no other purpose than to demonstrate where the frustrations of systems researchers with the review process come from, so if you are familiar with this firsthand, feel free to skip to the next section. 
+Their sole purpose is to demonstrate where frustrations of systems researchers with the review process come from, so if you are familiar with this firsthand, feel free to [skip to the next section](#do-we-need-systems-research). 
 
 ### Examples of system paper reviews
 
-My very first submission, a [works-in-progress paper to CHI 2013]({{ site.baseurl }}{% link /assets/files/CHI2013-Laevo-submission.pdf %}), presented the design, implementation, and evaluation of a window manager which "repurpose[s] the calendar metaphor to not only plan tasks, but also to provide an overview of ongoing tasks, allow switching between them, and reflecting on past tasks." But, this was not deemed novel enough since previous window managers also included temporal features, and though some novelty was recognized, the work was deemed too preliminary for a _works-in-progress_ submission. The paper was based on my MSc thesis, representing half a year worth of work.
+My very first submission, a [works-in-progress paper to CHI 2013]({{ site.baseurl }}{% link /assets/files/CHI2013-Laevo-submission.pdf %}), presented a window manager which "repurpose[s] the calendar metaphor to not only plan tasks, but also to provide an overview of ongoing tasks, allow switching between them, and reflecting on past tasks." But, this was not deemed novel enough since previous window managers also included temporal features, and though some novelty was recognized, the work was deemed too preliminary for a _works-in-progress_ submission (meta rating 2/5). The paper was based on my MSc thesis, representing half a year worth of work, and presented the design rational and initial evaluation of a fully-functioning system.
 
 > I have concerns about the novelty of the work. The author's core idea of providing a temporal way to organize groups of windows has been done before.
 ... Again, the author's ideas are good ones, but unfortunately it seems like they are not novel enough to the CHI community at this stage. Still, let me emphasize there are some very cool, novel aspects of the author's work which are not thoroughly explored--such as integration of the user's window/task manager with their calendar.
 ... And while I don't think there is enough novelty in this submission to make it a good fit for WiP, I look forward to seeing how this work evolves in the future. — **rated 2/5 by "Expert"**
 
+> But, if one thinks of a window as simply a very large icon, then Timescape [related work I cited] seems awfully similar to the system presented in this submission. — **rated 2/5 by "Knowledgeable"**
 
 ## Do We Need Systems Research?
 
