@@ -112,7 +112,7 @@ This is only human: reviewers are asked to criticize your work, and systems rese
 The more ground you cover, the more likely reviewers will be able to envision and spot missing features. The more related work you introduce, the more similarities with other systems they'll see.
 The latter, more often than not, leads to contributions being labeled as "incremental", which out of hand is equated with "too small to warrant publication"; so much for ["standing on the shoulders of giants"](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 And due to the large scope covered by systems research, even the most constructive reviews will request details you may have omitted intentionally to make space for information requested as part of a previous reviewing round.
-This leads to the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution and request additional work.**
+This leads to the following paradox in systems research: **the bigger, more complex, system you are developing, the more research you draw on, the more likely reviewers will trivialize your contribution and request additional work to be done.**
 
 Not only does this make it hard to publish systems research, it incentivizes _bad_ research:
 
@@ -131,7 +131,16 @@ My very first submission, a [works-in-progress paper to CHI 2013]({{ site.baseur
 ... Again, the author's ideas are good ones, but unfortunately it seems like they are not novel enough to the CHI community at this stage. Still, let me emphasize there are some very cool, novel aspects of the author's work which are not thoroughly explored--such as integration of the user's window/task manager with their calendar.
 ... And while I don't think there is enough novelty in this submission to make it a good fit for WiP, I look forward to seeing how this work evolves in the future. — **rated 2/5 by "Expert"**
 
-> But, if one thinks of a window as simply a very large icon, then Timescape [related work I cited] seems awfully similar to the system presented in this submission. — **rated 2/5 by "Knowledgeable"**
+> But, if one thinks of a window as simply a very large icon, then Timescape [cited related work] seems awfully similar to the system presented in this submission. — **rated 2/5 by "Knowledgeable"**
+
+A full paper incorporating an additional year of work, including additional features uncovered as part of the previous evaluation and a new two-week in-situ field study, [was submitted to CHI 2014]({{ site.baseurl }}{% link /assets/files/CHI2014-Laevo-submission.pdf %}) and "was discussed in detail at the PC and the decision was not to accept the paper due to the incremental nature of the contribution" (meta rating 3/5).
+
+> The system itself has similarities with those described in the literature review both in terms of its features and presentation. It is therefore more a variation on a theme rather than something notably original. — **rated 3.5/5 by "Knowledgeable"**
+
+> It would be interesting to see what results you would garner if a longer field study such as three months would reveal about the use of your application.
+... Why was there not a comparative study done conducted between your application and existing applications (e.g. virtual desktops in operating systems such as KDE, Gnome, and MacOSX)?
+... Various tools have been implemented to help support a timeline of tasks notably Trello which is web based and collaborative. According to Wikipedia Trello has over 1 million users. — **rated 3/5 by "Passing Knowledge"**
+
 
 ## Do We Need Systems Research?
 
