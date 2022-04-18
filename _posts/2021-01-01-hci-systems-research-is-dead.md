@@ -35,9 +35,11 @@ While accurate, I find that these overly broad descriptions of systems research 
 Should [any novel real application be considered systems research](http://socratrees.wiki/statement/details/1529?inverse=true)? Should [trivial modifications to existing systems be considered systems research](http://socratrees.wiki/statement/details/1530?inverse=true)? I think not.
 
 Outside of HCI, [Rob Pike](https://en.wikipedia.org/wiki/Rob_Pike), known for his work on UTF-8 and the Go programming language, refers to "systems" as operating systems, languages, or more generally "the things that connect programs together" ([Pike R., 2000][8]).
+Systems research seeks _systematic_ solutions to a broad set of problems by cohesively incorporating a large body of prior work.
 In this broader context, one could thus view HCI systems as **user interfaces that connect applications together**.
 
-It is [the interplay between software architecture and the novel cross-application user interactions it enables](http://socratrees.wiki/statement/details/1531) which, to me, sets HCI systems research apart from mere "applications". Often, systems research tries to _reimagine_ what an "application" is. Two examples in my own line of work:
+It is [the interplay between software architecture and the novel cross-application user interactions it enables](http://socratrees.wiki/statement/details/1531) which, to me, sets HCI systems research apart from mere "applications".
+Often, systems research tries to _reimagine_ what an "application" is. Two examples in my own line of work:
 
 - Laevo ([Jeuris et al., 2014][9]) presents an activity-centric software architecture integrating traditional task, window, and file management. As a systems research contribution, it envisions a future by prototyping a solution in which personal computer users are no longer burdened with file management. Instead, window configurations can be organized and persisted on a time line as part of task management.
 - Socratrees ([Jeuris, 2018][10]) explores the design of a new information infrastructure to evaluate, contest, and reason about information online—as opposed to merely disseminating it. As a systems research contribution, it envisions a future in which claims represented in multiple media sources (e.g., this article) can link to a central repository of aggregated structured argumentation.
@@ -120,10 +122,10 @@ Not only does this make it hard to publish systems research, it incentivizes _ba
 - Limit the introduction of related systems of fields that your "peers" are unlikely to know about, and abstain from highlighting how your work is similar. It will unncessarily decrease your chances of getting accepted.
 - Don't report on design challenges you uncover as part of creating and using an "interactive sketch" ([Greenberg & Buxton, 2008][12]). Many reviewers will treat such design insights as a failed empirical evaluation and ask you to revise and resubmit.
 
-But don't take my word for it. Here are some especially egregious reviews, exemplary of the points made above, of past submissions of mine.
+But don't take my word for it. Here are some reviews, exemplary of the points made above, of past submissions of mine.
 Their sole purpose is to demonstrate where frustrations of systems researchers with the review process come from, so if you are familiar with this firsthand, feel free to [skip to the next section](#do-we-need-systems-research). 
 
-### Examples of system paper reviews
+### Examples of system paper reviews: Laevo
 
 My very first submission, a [works-in-progress paper to CHI 2013]({{ site.baseurl }}{% link /assets/files/CHI2013-Laevo-submission.pdf %}), presented a window manager which "repurpose[s] the calendar metaphor to not only plan tasks, but also to provide an overview of ongoing tasks, allow switching between them, and reflecting on past tasks." But, this was not deemed novel enough since previous window managers also included temporal features, and though some novelty was recognized, the work was deemed too preliminary for a _works-in-progress_ submission (meta rating 2/5). The paper was based on my MSc thesis, representing half a year worth of work, and presented the design rational and initial evaluation of a fully-functioning system.
 
@@ -138,8 +140,17 @@ A full paper incorporating an additional year of work, including additional feat
 > The system itself has similarities with those described in the literature review both in terms of its features and presentation. It is therefore more a variation on a theme rather than something notably original. — **rated 3.5/5 by "Knowledgeable"**
 
 > It would be interesting to see what results you would garner if a longer field study such as three months would reveal about the use of your application.
-... Why was there not a comparative study done conducted between your application and existing applications (e.g. virtual desktops in operating systems such as KDE, Gnome, and MacOSX)?
 ... Various tools have been implemented to help support a timeline of tasks notably Trello which is web based and collaborative. According to Wikipedia Trello has over 1 million users. — **rated 3/5 by "Passing Knowledge"**
+
+A slightly polished resubmission to UIST 2014 got lucky and got in ([Jeuris et al., 2014][9]), but still only had a meta rating of 3/5. Even the most positive reviewers struggle to understand the nature of systems research as a cohesive _broad_ contribution, as opposed to an _in depth_ measurable contribution towards one specific topic. They _see_ the contribution, but simply don't consider it large or strong enough to warrant publication. They "look forward to seeing this work in the future", but don't realize that without getting intermittent work published, there is no future for academic work like this.
+
+> Unfortunately, all reviewers struggled to understand the extent to which there was a research contribution.
+... I worry, however, that these contributions were spread thin among all areas, making it difficult to understand where the true meat is. — **Meta Review**
+
+> I understand the struggle of a systems paper that you face: you've combined a lot of design descisions that are working together, and it is difficult to ply them apart to study one in depth in the absence of the others.
+... I appreciate the value of demonstrating a concept, and I think the concept you are working on is worth pursuing, but I do not think the particular qualitative analysis you performed was strong enough to draw *conclusions* about that concept. — **rated 3/5 by "Knowledgeable"**
+
+> I would consider the current state of Laevo as a concept under development. — **rated 3/5 by "Expert"**
 
 
 ## Do We Need Systems Research?
