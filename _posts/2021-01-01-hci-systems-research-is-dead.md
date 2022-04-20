@@ -152,6 +152,21 @@ A slightly polished resubmission to UIST 2014 got lucky and got in ([Jeuris et a
 
 > I would consider the current state of Laevo as a concept under development. — **rated 3/5 by "Expert"**
 
+As anticipated in the discussion section of Laevo, introducing support for collaboration was the next logical step.
+A submission to CSCW 2016 did exactly that and presented co-Laevo ([archived as a technical report][13] after it was rejected with meta rating 2/5).
+Taking heed of the previous reviewers' warning not to spread contributions too thin, this paper focused on design and implementation only.
+Arguably this was too small of a contribution for a high-impact conference such as CSCW, but this was not the main point reviewers were complaining about.
+
+> The paper states that its approach is different from other ABC systems but what about non-ABC systems?
+... The paper presents no study which compares this system to current systems. — **rated 2/5 by "Passing Knowledge"**
+
+One reviewer even believed Laevo already supported coordination and collaboration based on their reading of our research group's overarching project descriptions, rather than the cited UIST paper. But the same reviewer also referred to "the Laevo company web page". This may just be your average loose cannon you get in reviews from time to time, but they clearly still shaped the meta reviewer's opinion.
+
+> Well, visiting http://pitlab.itu.dk/research, it is somehow hard to believe that Leavo does not address "coordination and collaboration within cooperating teams".
+After all, that web page shows global interaction, http://pitlab.itu.dk/research/global-interaction, and pervasive healthcare, http://pitlab.itu.dk/pervasive-healthcare. — **rated 2/5 by "Knowledgeable"**
+
+> All reviewers could not see the novel contribution of this paper in compare [sic] to the previous version of the system or to other existing systems. — **Meta Review**
+
 
 ## Do We Need Systems Research?
 
@@ -162,6 +177,7 @@ Work in progress ...
 
 - Bernstein, M. S., Ackerman, M. S., Chi, E. H., & Miller, R. C. (2011). [The trouble with social computing systems research.][5] In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 389-398).
 - Greenberg, S., & Buxton, B. (2008). [Usability evaluation considered harmful (some of the time).][12] In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 111-120).
+- Jeuris, S., Tell, P., Bardram, J. (2016) [co-Laevo: Supporting Cooperating Teams by Working ‘within’ Shared Activity Time Lines][13] Technical Report at IT University of Copenhagen (TR-2016-193).
 - Jeuris, S. (2017). [Task and Interruption Management in Activity-centric Computing][11] (Doctoral dissertation, IT University of Copenhagen, Software Development Group, Pervasive Interaction Technology Laboratory).
 - Jeuris, S. (2018). [Socratrees: Exploring the Design of Argument Technology for Layman Users.][10] arXiv preprint arXiv:1812.04478.
 - Jeuris, S., Houben, S., & Bardram, J. (2014). [Laevo: A temporal desktop interface for integrated knowledge work.][9] In Proceedings of the 27th annual ACM symposium on User interface software and technology (pp. 679-688).
@@ -184,4 +200,4 @@ Work in progress ...
   [10]: https://arxiv.org/abs/1812.04478
   [11]: https://pure.itu.dk/ws/files/83014578/PhD_thesis_Final_Version._Steven_Jeuris_for_online.pdf
   [12]: https://dl.acm.org/doi/abs/10.1145/1357054.1357074
-  
+  [13]: https://pure.itu.dk/portal/en/publications/colaevo--supporting-cooperating-teams-by-working-within-shared-activity-time-lines(ad1f6194-1116-4217-9adc-3ce21df3829f).html
